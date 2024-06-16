@@ -1,0 +1,25 @@
+.section-title {
+  margin-top: 10%;
+}
+
+.department-container {
+  margin-top: 20px;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-column-gap: 50px;
+}
+
+.description1 {
+  font-style: italic;
+}
+
+.right-container {
+  border-left: 2px solid #1977cc;
+}
+
+.dept-img {
+  width: 400px;
+  height: 250px;
+  margin-left: 60px;
+}
+
